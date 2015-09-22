@@ -8,7 +8,8 @@ Project state:
 prototype--Progressing
 -------------------------------------------------------------------------------
 Credits
-	Vincent Ling (vincentcwling@gmail.com)
+
+Vincent Ling (vincentcwling@gmail.com)
 -------------------------------------------------------------------------------
 Project description
 
@@ -17,9 +18,11 @@ Create a fun web page game (based on JavaScript) for a boy across the road to th
 Dependencies:
 
 index.html
---app.js
---engine.js
---
+
+--/js/app.js
+--/js/engine.js
+--js/resources.js
+--jquery-2.1.4.min.js
 -------------------------------------------------------------------------------
 Documentation
 Readme.md
